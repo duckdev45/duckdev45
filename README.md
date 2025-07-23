@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=32&letterSpacing=em-wide&pause=1000&color=FF5F93&center=true&vCenter=true&repeat=false&random=true&width=500&lines=Hello+World+%2C+I'm+Duck+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=32&letterSpacing=em-wide&pause=1000&color=FF5F93&center=true&vCenter=true&repeat=true&random=true&width=500&lines=Hello+World+%2C+I'm+Duck+)](https://git.io/typing-svg)
 
 
 #### Top Technologies
