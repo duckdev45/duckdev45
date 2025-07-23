@@ -18,4 +18,4 @@
 
 #### Github Status
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=duckdev45&show_icons=true&locale=en&theme=dracula" alt="duckdev45" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=duckdev45&show_icons=true&locale=en&theme=dracula" alt="duckdev45" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duckdev45&layout=compact&theme=dracula&hide_border=true" />
