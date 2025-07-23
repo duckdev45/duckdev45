@@ -1,6 +1,4 @@
-## Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=24&pause=1000&color=15F713&center=true&vCenter=true&random=true&width=435&lines=Hello+World%2C+I'm+Duck+%F0%9F%90%A4;%23FrontEnd+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=500&size=26&pause=1000&color=FF5F93&center=true&vCenter=true&random=true&width=435&lines=Hello+World+%2C+I'm+Duck;%23FrontEnd+Developer)](https://git.io/typing-svg)
 
 <!--
 **duckdev45/duckdev45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
