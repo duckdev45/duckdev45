@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&size=32&letterSpacing=em-wide&pause=1000&color=FF5F93&center=true&vCenter=true&repeat=true&random=true&width=500&lines=Hello+World+%2C+I'm+Duck+)](https://git.io/typing-svg)
+<h3 align="center"><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://duckdev45.github.io/cv-yt-pages/">duck</a></b></samp></h3>
+<p align="center"><br>
+  <samp>
+    「 Bachelor of Science in Information Management @ 🐤 <b>NKUST</b> 」<br>
+  </samp>
+</p>
 
 
 #### Top Technologies
@@ -12,9 +17,6 @@
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)](#)
 
-#### Tools
-
-<img width="100%" src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,vercel,vite,nodejs,express,webpack,tailwindcss,materialui,mysql,git,github" />
 
 #### Github Status
 
