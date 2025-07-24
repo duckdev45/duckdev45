@@ -8,7 +8,7 @@
 
 <p align="center"><br>
   <samp>
-    「 Bachelor of Science in Information Management @ 🐤 <b>NKUST</b> 」<br>
+    「 Bachelor of Science in Information Management @ <b>NKUST</b> 」<br>
   </samp>
 </p>
 
