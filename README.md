@@ -1,7 +1,7 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
 
 <h2><samp>Hello! I
-am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://duckdev45.github.io/cv-yt-pages/">
+am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://duck2025cv.vercel.app/">
 duck</a></b></samp></h2>
 
   <h3>
