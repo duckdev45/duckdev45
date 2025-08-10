@@ -1,22 +1,23 @@
 <div align="center" style="display: flex; flex-direction: column; align-items: center;">
 
-  <h2><samp>Hello! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://duckdev45.github.io/cv-yt-pages/">duck</a></b></samp></h2>
+<h2><samp>Hello! I
+am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://duckdev45.github.io/cv-yt-pages/">
+duck</a></b></samp></h2>
 
   <h3>
     <samp>
-  🌍 based in Taiwan <br>
+  🌍 based in Taiwan
     </samp>
   </h3>
-
-  <p><br>
+  <p>
     <samp>
-      「 Bachelor of Science in Information Management @ <b>NKUST</b> 」<br>
+      「 Bachelor of Science in Information Management @ <b>NKUST</b> 」
     </samp>
   </p>
 
   <h3>
     <samp>
-  🔧 Skills <br>
+  🔧 Skills
     </samp>
   </h3>
 
@@ -31,7 +32,7 @@
 
   <h3>
     <samp>
-  ✨ Github Status <br>
+  🌟 Github Status
     </samp>
   </h3>
 
